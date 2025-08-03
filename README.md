@@ -14,6 +14,6 @@ Tenemos la información de las 4 tiendas, que nos permite hacer los siguientes a
 
 Ejemplos de gráficos e insights obtenidos.
 
-https://github.com/anagonesca/Challenge1_AluraStore_AnayeliGlezE/blob/2c1142b6ca648a5e6fc1621408c7749e4d337dc0/Facturacio%CC%81n%20por%20tienda.png
+![image_Alt](https://github.com/anagonesca/Challenge1_AluraStore_AnayeliGlezE/blob/2c1142b6ca648a5e6fc1621408c7749e4d337dc0/Facturacio%CC%81n%20por%20tienda.png)
 
 Instrucciones para ejecutar el notebook.
